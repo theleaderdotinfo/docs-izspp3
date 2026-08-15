@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-1qmour.salamcuan.shop/sitemap.xml
